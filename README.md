@@ -16,9 +16,13 @@ The **Decentralized Parking System** is a smart contract built on the Ethereum b
 ### How Our Smart Contract Solves These Issues:
 
 ✅ **Immutable Records** – Every transaction and booking is recorded on the blockchain.
+
 ✅ **Eliminates Middlemen** – Users pay directly to parking owners without third-party intervention.
+
 ✅ **Automated Payments** – Ensures fair payments and refunds via smart contract logic.
+
 ✅ **Real-Time Availability** – Users can check the live status of available parking slots.
+
 ✅ **Secure and Transparent** – Transactions are executed securely on Ethereum, reducing fraud.
 
 ---
